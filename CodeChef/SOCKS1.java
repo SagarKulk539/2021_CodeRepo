@@ -1,3 +1,8 @@
+/*
+Problem Description, Input, Output : https://www.codechef.com/APRIL21C/problems/SOCKS1
+Code by : Sagar Kulkarni
+*/
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;

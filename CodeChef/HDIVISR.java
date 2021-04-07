@@ -1,3 +1,8 @@
+/*
+Problem Description, Input, Output : https://www.codechef.com/FEB21C/problems/HDIVISR
+Code by : Sagar Kulkarni
+*/
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
